@@ -1,4 +1,4 @@
-# Descryption
+# Description
 A real-time hand sign detection system has been developed from the ground up, featuring a custom CNN model. The model not only detects hand signs in real-time but also predicts the corresponding English alphabet represented by the hand sign. Achieving an accuracy of 84.3% on the test dataset, the model has been successfully deployed on a website using Flask. There is potential for further improvement by integrating NLP to assist individuals with hearing impairments.
 
 # Website Preview
